@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false"  >
+   <test name="chrome">
+  <groups>
+  <run>
+  <include name="ab"></include>
+  </run>
+  </groups>
+   <listner>
+    <Listener class-name="kl.Listner"/>
+    </listner>
+  <classes>
+ <class name="kl.BankLoan>
+    </classes>
+  </test>  
+  
+</suite> <!-- Suite -->

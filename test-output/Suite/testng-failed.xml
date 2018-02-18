@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="chrome(failed)">
+    <classes>
+      <class name="kl.Orangehrm">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="f12"/>
+        </methods>
+      </class> <!-- kl.Orangehrm -->
+    </classes>
+  </test> <!-- chrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->
